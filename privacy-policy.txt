@@ -1,0 +1,75 @@
+Sonarax Future Sport Application
+End User License Agreement 
+
+This non-commercial License Agreement ("Agreement") is between the individual or entity that accepts it ("You"), and Sonarax Technologies Ltd. You accept this Agreement by clicking an "agree" or similar button, where this option is provided by Sonarax, or if You install, use or access the Future Sport Application (as defined below) or any part thereof. Your agreement to these terms also binds your authorized users, your company or organization. 
+
+Introduction.
+The Sonarax Future Sport Application v.1.0.0 and any other material, products, deliverables, hardware, hardware design and/or services provided by Sonarax under this Agreement (collectively, the "Future Sport Application") is licensed to You subject to the terms of this Agreement. This Agreement forms a legally binding contract between You and Sonarax in relation to your use of the Future Sport Application.
+
+The Future Sport Application also includes all enhancements, modifications, additions, translations, compilations, or other software delivered to You by Sonarax hereunder and any and all printed and electronic documentation provided with the Future Sport Application.
+
+If You agree to be bound by this Agreement on behalf of your employer or other entity, You, your employer or other entity on your behalf, hereby represent and warrant that You have full legal authority to bind your employer or such entity to this Agreement. 
+
+License Grant.
+Sonarax hereby grants You a personal, royalty free, non-exclusive, non-transferable, non-sublicensable and non-assignable license, which is time-limited to the term of this Agreement, to install and use the Future Sport Application solely for the purpose of your internal evaluation of the Future Sport Application. For the removal of doubt, no commercial use may be made by You or any others on your behalf with the use of the Future Sport Application without Sonarax's prior written consent.
+
+You shall not make any copies of the Future Sport Application and is expressly prohibited from providing the Future Sport Application or any portion thereof, or access thereto, to any third party, except as otherwise agreed to by Sonarax in writing. 
+
+You shall not remove or destroy any copyright or restricted rights notices: (a) affixed to any media containing the Future Sport Application; or (b) incorporated within the Future Sport Application. You shall reproduce any such copyright or restricted rights notices in any copy of the Future Sport Application created by You.
+
+Sonarax may make modifications, additions and upgrades to the Future Sport Application, including without limitation version updates, as it deems necessary. The terms of this Agreement will apply to any updates that Sonarax may make available to You unless the update is accompanied by a separate license, in which case the terms of that license will govern. You agree that updates may require You to change or update your application, and may affect your ability to use, access or interact with the Future Sport Application. Sonarax is not obligated to provide any maintenance, technical or other support for the Future Sport Application. 
+
+Use of the Future Sport Application by You.
+You agree to use the Future Sport Application only for purposes that are permitted by (a) this Agreement and (b) any applicable law, regulation or generally accepted practices or guidelines in the relevant jurisdictions (including any laws regarding the export of data or software to and from the State of Israel or other relevant countries).
+
+Term and Termination.
+The term of this Agreement shall be as of the date the Future Sport Application was installed by You and until the 1st day of June 2017, upon which this Agreement will automatically expire, unless earlier terminated in accordance with the terms set forth in this Section 4.
+
+If You want to terminate this Agreement, You may terminate it by uninstalling and destroying all copies of the Future Sport Application that are in the possession, custody or control of You, your authorized users and your organization.
+
+Sonarax may terminate this Agreement (i) at any time for any or no reason upon fourteen (14) days prior written notice to You or (ii) immediately upon written notice to You if You have materially breached this Agreement.
+
+Upon expiration or termination of this Agreement, You agree to destroy all copies of the Future Sport Application within your possession, custody or control of You, your authorized users and your organization. Upon termination all rights and obligations pursuant to this Agreement including the licenses shall immediately terminate, except for any provisions of this Agreement that are intended by their nature to survive termination, including Sections 4 (“Term and Termination”), 6 (“Title”), 7 (“Confidential Information”), 8 (“Warranties and Limitations”), 9 (“Indemnification”) and 10 (“General”) hereunder, which shall survive the expiration or termination of this Agreement.
+
+
+Information Collected. 
+During the course of your use of the Future Sport Application, Sonarax may collect statistical information regarding your use of the Future Sport Application, such as information on which tools and/or services of the Future Sport Application are being used and how they are being used, the type of device on which the Future Sport Application has been installed, connection time to Sonarax's server, etc. Any such information gathered by Sonarax will be used in connection with evaluating and improving Sonarax’s products and technology. Notwithstanding, the use of any of our on-line services, including our web-site (Sonarax.com) and any services provided therein, shall be subject to any applicable law, regulation or generally accepted practices or guidelines in the relevant jurisdictions, and/or Sonarax’s privacy policy as may be in effect and updated from time-to-time.
+
+Title.  
+All right, title and interest (including any and all intellectual property rights) in the Future Sport Application (and all copies thereof) and any improvements and enhancements thereto shall at all times remain with Sonarax and no license in the Future Sport Application or under any Sonarax intellectual property rights is granted to You except as explicitly provided in Section 2 above.
+
+You shall not and shall not permit any third party to: (a) engage in, cause, or permit the reverse engineering, disassembly, decompilation or any similar manipulation or attempt to discover the source code of the Future Sport Application or any part thereof; (b) bypass, alter, or tamper with any security or lockout features of the Future Sport Application; (c) create any derivative work or translation of the Future Sport Application; or (d) incorporate or combine the Future Sport Application, with any open source software in such a way that would cause the Future Sport Application, or any portion thereof, to be subject to all or part of the licence obligations or other intellectual property related terms with respect to such open source software.
+
+Nothing in this Agreement gives You a right to use any of Sonarax's trade names, trademarks, service marks, logos, domain names, or other distinctive brand features.
+
+Confidential Information. 
+You acknowledge and agree that the Future Sport Application was developed at considerable time and expense by Sonarax and contains valuable trade secrets and confidential information of Sonarax. Accordingly, You agree to maintain the confidentiality of any proprietary information received by You during, or prior to entering into, this Agreement, including, without limitation, the Future Sport Application and any know-how disclosed by Sonarax, trade secrets and other proprietary information, that You should know is confidential or proprietary based on the circumstances surrounding the disclosure, including, without limitation, non-public technical and business information and all other information obtained during the use of the Future Sport Application as permitted hereunder ("Confidential Information"). The restriction herein shall not apply to the extent that such information is in the public domain or hereafter falls into the public domain through no fault of You. You agree not to use said Confidential Information for any purpose except as necessary to fulfill your obligations and exercise your rights under this Agreement. You shall protect the secrecy of and avoid disclosure and unauthorized use of Sonarax’s Confidential Information to the same degree that You take to protect your own confidential information and in no event less than reasonable care.
+
+
+
+Warranties and Limitations.
+You acknowledge that the Future Sport Application is still in the evaluation stage and therefore may not conform in accordance with its specifications or otherwise operate as expected, and agree to be fully responsible for establishing back-up, log, batch, review and other procedures and controls that are appropriate to maintain the integrity and continuity of your operations, in the event that any such non-conformities or unexpected operation materializes.
+
+without derogating from the aforesaid, the Future Sport Application is provided “as is”. Sonarax disclaims any and all warranties, representations, and conditions relating to the Future Sport Application, whether express, implied or arising by custom or trade usage, or from a course of dealing including, but not limited to, any representation, warranty, or condition of merchantability, fitness for a particular purpose, or non-infringement. no information or advice given by Sonarax or its agents, employees, or representatives, whether oral or written, shall create any representation or warranty.
+
+You agree that the form and nature of the Future Sport Application that Sonarax provides may change without prior notice to You and that future versions of the Future Sport Application may be incompatible with applications developed on previous versions of the Future Sport Application. You agree that Sonarax may stop (permanently or temporarily) providing the Future Sport Application (or any features within the Future Sport Application) to You or to users generally at Sonarax's sole discretion, without prior notice to You.
+
+in no event shall Sonarax or anyone on its behalf be liable for any indirect, consequential, incidental, special or punitive damages of any kind, including without limitation damages for loss of business or profits, business interruption, loss of business information or loss or damages to goodwill, in connection with this agreement regardless of the cause and whether arising in contract (including fundamental breach), tort (including negligence), or otherwise, even if Sonarax has been advised of the possibility of such damages or loss. notwithstanding anything to the contrary herein, under no circumstances will Sonarax’s total and aggregate liability to you from all causes of action of any kind, including without limitation contract, tort, negligence, strict liability, breach of warranty, or otherwise, arising out of or related to this agreement, exceed the consideration actually paid by you to sonarax hereunder.
+
+Indemnification.
+To the maximum extent permitted by law, You agree to defend, indemnify and hold harmless Sonarax, its affiliates and their respective directors, officers, employees and agents from and against any and all claims, actions, suits or proceedings, as well as any and all losses, liabilities, damages, costs and expenses (including reasonable attorneys fees) arising out of or accruing from (a) your use of the Future Sport Application, (b) any application You develop on the Future Sport Application that infringes any copyright, trademark, trade secret, trade dress, patent or other intellectual property right of any person or defames any person or violates their rights of publicity or privacy, and (c) any non-compliance by You with this Agreement. 
+
+General.
+In the event that You are interested in engaging in a commercial transaction with respect to the Future Sport Application, such transaction and the commercial terms thereto shall be handled in accordance with and upon signing of a separate definitive agreement.
+
+No agency, partnership, joint venture or employment relationship is or shall be created by virtue of this Agreement.
+
+Sonarax may assign this Agreement without notice to You. You shall not assign this Agreement or Your rights hereunder without the prior written consent of Sonarax (such consent may be withheld or conditioned at Sonarax's sole discretion) and any assignment without Sonarax's prior written consent shall be null and void and of no effect. Sonarax may perform all obligations to be performed under this Agreement directly or may have some or all obligations performed by its affiliates, contractors or subcontractors.
+
+Sonarax may make changes to the Agreement as it distributes new versions of the Future Sport Application. When these changes are made, Sonarax will make a new version of the Agreement available on the website where the Future Sport Application is made available. 
+
+This Agreement shall be governed by, interpreted and enforced in accordance with the laws of the State of Israel, without regard to its conflict of law principles. All actions, suits or proceedings under or related to this Agreement shall be adjudicated in the courts of Tel-Aviv, Israel, and the Parties hereby irrevocably consent to the exclusive jurisdiction and venue of such courts.
+
+All notices permitted or required hereunder shall be in writing and shall be sent by facsimile, or personal delivery at the facsimile number, or address as either Party may specify. Notices sent to Sonarax shall be addressed to Sonarax Technologies Ltd., 2 Sderot HaPalyam, Haifa, Israel 3309502 and to Your address as provided by You, or to the address otherwise designated from time to time in writing by the Parties. Any notices provided will be deemed as being received on the date of transmission of facsimile, e-mail, or personal delivery unless given outside normal business hours in which case such notice shall be deemed as being given on the next business day, provided that if any such notice fails to reach You because the information provided by You or on Your behalf to Sonarax is not accurate or up to date, notice shall be deemed sufficiently delivered on the date it was sent.
+
+Should You have any questions concerning this Agreement, or if You desire to contact Sonarax for any reason, please direct all correspondence to contact@sonarax.com.
